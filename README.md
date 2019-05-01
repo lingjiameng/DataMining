@@ -1,3 +1,3 @@
-# Data Ming Cource project
+# Data Ming Course project
 
 details in project pdf.
